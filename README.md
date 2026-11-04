@@ -95,3 +95,9 @@ Wireless DSP-based signal filtering using ESP32-S3 and NRF24L01+.
 
 ### 4. Hardware Prototype
 ![Hardware Prototype](hardware_prototype.jpeg)
+
+### Related Project: Wireless Walkie-Talkie Filtering Using DSP
+
+Both projects are interconnected and use ESP32-S3 and NRF24L01+ modules. While the Digital Walkie-Talkie project focuses on wireless voice communication, the DSP project focuses on processing signals using an IIR Low-Pass Filter. Together, they demonstrate wireless communication and digital signal processing.
+
+[Explore the DSP Project](https://github.com/Vishakha1025/Wireless_Walkie_Talkie_Filtering)
