@@ -82,3 +82,16 @@ This project focuses on designing and implementing a digital wireless communicat
 
 Wireless DSP-based signal filtering using ESP32-S3 and NRF24L01+.
 
+## Project Gallery
+
+### 1. Project Poster
+![Project Poster](project_poster.jpeg)
+
+### 2. Code Implementation
+![Code Implementation](code_implementation.jpeg)
+
+### 3. Complete Project Setup
+![Complete Project Setup](compelte_project_setup.jpeg)
+
+### 4. Hardware Prototype
+![Hardware Prototype](hardware_prototype.jpeg)
